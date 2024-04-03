@@ -2,7 +2,7 @@
 
 ![RUJL](https://teach.rujl.net/static/default/img/RUJL.png)
 
-Welcome to the rujl-open Feedback and Issue Logging Page for Teach.rujl.net
+Welcome to the rujl-open feedback and issue logging page for rujl.net
 
 As the creator and fellow educator behind Teach.rujl.net, I understand the importance of continuous improvement and adaptation in the ever-evolving landscape of education. 
 
