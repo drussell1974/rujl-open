@@ -1,5 +1,7 @@
 # Your Contribution is Vital
 
+[Issue](https://github.com/drussell1974/rujl-open/issues) | [Feedback](https://github.com/drussell1974/rujl-open/issues) | [Experience](https://github.com/drussell1974/rujl-open/issues)
+
 Welcome to the rujl-open Feedback and Issue Logging Page for Teach.rujl.net
 
 As the creator and fellow educator behind Teach.rujl.net, I understand the importance of continuous improvement and adaptation in the ever-evolving landscape of education. 
@@ -9,18 +11,21 @@ This platform, was born from a desire to make lesson planning more intuitive and
 Here’s How You Can Help Shape the Future of Teach.rujl.net...
 
 ## Report issues
+[click here](https://github.com/drussell1974/rujl-open/issues)
 
 Encountered a glitch? Something not working as expected? Your detailed reports are invaluable in helping us identify and resolve technical problems swiftly, ensuring a smooth and efficient experience for all users.
 
 ## Share feedback
+[click here](https://github.com/drussell1974/rujl-open/issues)
 
 Do you have suggestions for new features? Ideas on how to enhance existing functionalities? Or perhaps insights into how Teach.rujl.net has impacted your teaching and learning experience? Every piece of feedback is a stepping stone towards making our platform more effective and user-friendly.
 
 ## Log your experiences
+[click here](https://github.com/drussell1974/rujl-open/issues)
 
 Your stories of how Teach.rujl.net has integrated into your educational routines, the challenges it has helped you overcome, and the successes it has helped you achieve are incredibly motivating. They guide us in refining and developing features that truly matter to you.
 
-**Thank you**
+## Thank you
 
 Your input directly influences the continuous improvement and success of Teach.rujl.net. By logging issues and sharing feedback, you become an integral part of our development process, helping us to not only rectify immediate concerns but also to innovate and expand in ways that genuinely support educational excellence.
 
